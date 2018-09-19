@@ -1,0 +1,59 @@
+/**index.wxss**/
+.container{
+  width: 100%;
+}
+swiper{
+  width: 100%;
+  height: 340rpx;
+}
+image{
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.item-list{
+ 
+}
+.pro-item{
+   overflow: hidden;
+   padding: 20rpx;
+}
+.pro-logo{
+  float: left;
+  width: 200rpx;
+  height: 200rpx;
+}
+.pro-body{
+  margin-left: 220rpx;
+
+}
+.pro-title{
+  color: #212121;
+  font-size: 34rpx;
+  line-height: 1.2
+}
+.pro-desc{
+  font-size: 28rpx;
+  color: #9a9a9a;
+  line-height: 1.2;
+}
+.pro-footer{
+  overflow: hidden 
+}
+.btn-details{
+  float: left;
+  width: 170rpx;
+  height: 52rpx;
+  font-size: 30rpx;
+  line-height: 52rpx;
+  background-color: yellowgreen;
+}
+.btn-ask{
+  float: left;
+  margin-left: 20rpx;
+  width: 220rpx;
+  height: 52rpx;
+  font-size: 30rpx;
+  line-height: 52rpx;
+  
+}

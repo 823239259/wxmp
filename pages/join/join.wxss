@@ -1,0 +1,33 @@
+/* pages/join/join.wxss */
+.banner{
+  display: block;
+  width: 100%;
+  height: 340rpx;
+}
+.block{
+  background-color: #fff;
+
+}
+.block-title{
+  position: relative;
+  color: #2e5e86;
+  font-size: 34rpx;
+  line-height: 1.5;
+  padding-left: 10rpx 20rpx;
+  text-indent: 40rpx;
+}
+.block-title::before{
+  content: '';
+  position: absolute;
+  left: 10rpx;
+  top: 4rpx;
+  width: 10rpx;
+  height: 40rpx;
+  background-color: #2e5e86;
+}
+.block-desc{
+  display: block;
+  font-size: 30rpx;
+  line-height: 1.6;
+  padding: 30rpx;
+}
